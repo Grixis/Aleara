@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="template">
+	<name>jm-designlab</name>
+	<version>1.0.0</version>
+	<creationDate>15/2011</creationDate>
+	<author>Jm-Experts!</author>
+	<authorEmail>itemplates@jm-experts.com</authorEmail>
+	<authorUrl>http://www.jm-experts.com</authorUrl>
+	<copyright>Jm-Experts!</copyright>
+	<license>Jm-Experts! License</license>
+	<description><![CDATA[
+			<h1>JM-Experts Design Lab</h1>
+
+			<a href="http://www.jm-experts.com/"><img src="../templates/jm-designlab/template_thumbnail.png" style="border: 4px solid #ccc; padding: 2px; float: left; margin-bottom: 10px;" /></a>
+<div class="clr"></div><br />Design Lab! is the new template by Jm-Experts march 2011. It is free to public.  <a href="http://www.jm-experts.com">Template Details Page</a>.
+
+			]]> </description>
+	<files>
+		<filename>favicon.ico</filename>
+		<filename>index.html</filename>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>template_thumbnail.png</filename>
+		<filename>params.ini</filename>
+		<filename>styleloader.php</filename>
+		<filename>utils.php</filename>
+		<filename>templates.php</filename>
+		
+		<folder>images</folder><folder>lib</folder>
+	<folder>css</folder>
+	
+	</files>
+	<positions>
+		<position>user4</position>            
+		<position>user3</position>            
+		<position>breadcrumb</position>            
+		<position>user2</position>            
+		<position>left</position>                  
+		<position>right</position>            
+		<position>debug</position>       
+	</positions>
+<params>            <param name="menuname" type="text" default="mainmenu" label="Menu name" description="Name of menu to load" />            <param name="menu_speed" type="text" default="500" label="Menu speed" description="Speed of menu animation" />			</params>
+</install>

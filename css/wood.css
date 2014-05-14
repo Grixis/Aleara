@@ -1,0 +1,44 @@
+body {
+	background: #adb32d;
+	color: #adb32d;
+}
+
+* {
+	font-family: tahoma;
+	font-size: 8pt;
+}
+
+fieldset {
+	border: 1px solid;
+}
+
+input, textarea, select {
+	color: #adb32d;
+	background: black;
+	border: solid gray 1px;
+}
+
+a {
+	text-decoration: none;
+	text-transform: none;
+	color: #ADB32D;
+}
+
+a:hover {
+	text-decoration: none;
+	text-transform: none;
+	color: red;
+}
+
+.forum {
+	color: #adb32d;
+}
+
+span.Tag {
+	color: #cc0000;
+	font-size: 120%;
+}
+
+#players a {
+	font-size: 90%;
+}

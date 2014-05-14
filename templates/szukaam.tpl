@@ -1,0 +1,2 @@
+Doszedłeś do lasu. Wydaje Ci się, że tutaj może znajdować się kapłan który wyjechał aby modlić się nad umierającymi zarażonymi zarazą…. Postanawiasz przeszukać las.<br><br>
+<a href="szukaam2.php">rozpoczynam przeszukiwanie lasu.</a>

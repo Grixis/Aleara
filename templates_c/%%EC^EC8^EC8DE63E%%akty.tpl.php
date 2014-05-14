@@ -1,0 +1,3 @@
+<?php /* Smarty version 2.6.16, created on 2012-10-27 22:39:56
+         compiled from akty.tpl */ ?>
+<i>Kopalnia Ravenew którą możemy znaleźć do dnia dzisiejszego w Lesie Zbłąkanych Dusz jest najstarszą kopalnią w krainie. Liczy już sobie 583 lata. Z tego przez aż 457 była czynna. Została zamknięta 126 wiosen temu. Powodem zamknięcia kopalni było to, że pracownicy kopalni zaczęli po jakimś czasie znikać bez śladu. Istnieją pogłoski, że kopalnia jest nawiedzona przez demony ze świata astralnego. 126 wiosen temu zniknął w niewyjaśnionych okolicznościach właściciel kopalni: Liplino Desemax. Od tego czasu kopalnia jest nieczynna i nosi nazwę "Opuszczona Kopalnia".</i>

@@ -1,0 +1,9 @@
+body {
+	background: url() repeat;
+	font-family: sans-serif;
+}
+
+
+img#fotografia:hover{
+opacity : 0.70;
+filter : alpha(opacity=20);

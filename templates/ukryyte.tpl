@@ -1,0 +1,2 @@
+
+Gdy przeszukiwałeś lochy po pewnym czasie dostrzegłeś uchylone drzwi z podziemnej sali. Sala jest ogromna. Wchodzisz do niej i widzisz wielką aurę. Wielka magiczna aura a kolorach niebieskich a w środku niej dziesiątki strażników których krzyków nie słychać poza nią. Wołają oni bowiem o pomoc. Jesteś w szoku przez to co zobaczyłeś, bo już wiesz, że nie jest tutaj bezpiecznie. Wiedząc, że nie możesz im pomóc biegniesz ile sił w nogach do króla aby powiadomić go o tym co zobaczyłeś….

@@ -1,0 +1,27 @@
+.slider
+{
+    width: 200px;
+    height: 15px;
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 10px;
+	background-color: gray;
+    border: 3px ridge #E0E0E0; 
+	
+}
+
+.handle, .handlestart
+{
+    width: 31px;
+    height: 15px;
+    background-image: url(../../images/sliders/handle1.png);
+    overflow: hidden;
+    border: none;
+    position: relative;
+    display: block;
+}
+
+.handlestop
+{
+    background-image: url(../../images/sliders/handle2.png);
+}

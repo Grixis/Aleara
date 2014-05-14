@@ -1,0 +1,6 @@
+<?php /* Smarty version 2.6.16, created on 2012-10-06 20:07:56
+         compiled from poorhouse.tpl */ ?>
+<center><IMG SRC="images/locations/przytulek.png"></center>
+<img style="margin-left: -8px" width="538px"  src="liniuszka.png"><br><br>
+<?php echo 'Spacerując uliczkami Aleary widzisz przed sobą stary dom o dziwnej konstrukcji. Ma on bowiem zawinięte w ślimak zakończenia wszystkich czubków dachu. Widzisz zapalone światła, więc domyślasz się, że mieszkańcy jeszcze nie śpią. Zaciekawiony tym miejscem podchodzisz bliżej. Słyszysz odgłosy dobiegające z wewnątrz. Stukanie jakichś garnków, rozmowy ludzi. Po chwili dostrzegasz tabliczkę przymocowaną do drzwi budynku z napisem „Przytułek”. Stoisz przed drzwiami, które nagle się otworzyły, a stara jaszczurzyca nie zauważając Cię wpadła na Ciebie wylewając zupę na Twoje ubranie. Przeprosiła Cię grzecznie i zaprosiła do środka na pogawędkę. Zaproponowała również nocleg za ';  echo $this->_tpl_vars['Level']*50;  echo ' sztuk złota.<br /><br />Jeżeli zapłacisz zostaniesz wylogowany z gry. Nikt nie będzie mogł cię zaatakować ani okraść.<br><ul><li><a href="?did=';  echo $this->_tpl_vars['Id'];  echo '">';  echo @A_REST;  echo '</a></li></ul>'; ?>
+</br>

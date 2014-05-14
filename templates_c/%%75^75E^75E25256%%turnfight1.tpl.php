@@ -1,0 +1,3 @@
+<?php /* Smarty version 2.6.16, created on 2012-10-06 01:01:03
+         compiled from turnfight1.tpl */ ?>
+<?php echo '<input type="radio" name="action" value="escape" /> ';  echo $this->_tpl_vars['Aescape'];  echo '<br /><br /><input type="radio" name="action" value="rest" /> ';  echo $this->_tpl_vars['Arest'];  echo ', - ';  echo $this->_tpl_vars['Rest'];  echo ' ';  echo $this->_tpl_vars['Aexhaust'];  echo ')<br /><br /><input type="submit" value="';  echo $this->_tpl_vars['Next'];  echo '" /></form>'; ?>

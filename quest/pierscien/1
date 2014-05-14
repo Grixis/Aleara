@@ -1,0 +1,6 @@
+
+   Spacerując między drzewami w lesie, napotykasz na tajemniczy pierścień leżący między kępką roślin. Kusi cię żeby go podnieść, lecz także tajemnicza siła odpycha cię od niego. W końcu decydujesz się, co zrobić.
+
+
+<a href="pierscien.php?step=1">Podnosisz pierścień.</a>
+<a href="pierscien.php?step=2">Zostawiasz go w spokoju</a>

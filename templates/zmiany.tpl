@@ -1,0 +1,47 @@
+Zmiany w grze wprowadzone w tej i wcześniejszej erze:<br>
+-Stworzono fortece gildyjne. Można je rozbudowywać itp.<br>
+-Stworzono świątynie gildyjne. Można w nich brać buffy zwiększające znacznie statystyki na określony czas. Również można je rozbudować.<br>
+-Stworzono motyw prestiżu gildii. Zdobywamy go wbijając lvle, walcząc PvP, poprzez walki gildyjne.<br>
+-Stworzono nowe miasto Diabolium. Aby do niego wejść trzeba jednorazowy klucz do miasta którego możemy kupić na Krwawych Mokradłach od 30lvla.<br>
+-Stworzono motyw legendarnych przedmiotów które wypadają z bossa. Są niezwykle mocne, lecz bardzo ciężko je zdobyć. Aby dostać się do bossa trzeba znajdować się w Diabolium i posiadać 5 potrzebnych artefaktów aby stoczyć z nim walkę.<br>
+-Przerobiono całą gospodarkę gry tak aby obojętnie co robimy w grze, dawało porównywalne zyski.<br>
+-Stworzono arenę honorową na której walczymy bez strat i zysków pvp z innymi graczami.<br>
+-Stworzono plugawy ogród gdzie możemy sadzić własne drzewka.<br>
+-Stworzono giełdę akcyjną. Możemy tam zakupywać i sprzedawać akcje gildii. Ceny ich zmieniają się wraz z czynnościami związanymi z gildią.<br>
+-Usunięto sprzedawanie surowców w krulewskim składzie.<br>
+-Stworzono stary pub w którym możemy się napić i dodano posąg alkoholizmu.<br>
+-Stworzono kilkadziesiąt podklas mechanicznych. Między innymi wampiryzm.<br>
+-W mieście Diabolium stworzono kilka nowych lokacji<br>
+-Zwiększone ceny planów alchemika.<br>
+-Naprawa czaru ułatwiającego grę magom.<br>
+-Zmniejszone ceny czarów.<br>
+-Zwiększone ceny itemów ogólnych.<br>
+-Zwiększone ceny planów jubilerskich.<br>
+-Zmniejszona cena itemów magicznych.<br>
+-Zwiększone ceny planów w tartaku.<br>
+-Zmniejszone ceny planów w kuźni.<br>
+-Miasto Coweritana zostało skasowane, a wszystkie lokacje z niego zostały przeniesione do Aleary aby było mniej podróżowania i łatwiejszy początek gry nowych osób.<br>
+-Nowe mini miasto zamiast coweritany - Krwawe Mokradła<br>
+-Zmiana charakteryzacji miasta Aleara.<br>
+-Bardzo znacznie zmniejszona ilość wydobywanego złota na wyspach.<br>
+-Podklasę możemy teraz wybrać dopiero od 10poziomu.<br>
+-Osłabiono o połowę bonusy umiejętności z podklas.<br>
+-Znacznie zwiększono bonusy rarów, lecz obniżono szansę na zdobycie ich.<br>
+-Obniżono bonusy przy ulepszaniu itemów w opuszczonej kuźni.<br>
+-Zmniejszone procenty zysków na lokatach o połowę.<br>
+-Poprawiono złe wyświetlanie bonusów w świątyni gildyjnej.<br>
+-Obniżono delikatnie exp za ubicie Diaburiona.<br>
+-Obniżono ilość zdobywanego złota przy gryzieniu.<br>
+-Zmieniono wygląd profili.<br>
+-Obniżono exp, złoto i energie zdobywaną w puszczy i piekle.<br>
+-Zmieniono pokazywanie dostępnych podklas przy każdej klasie na wyświetlanie ich po wybraniu klasy.<br>
+-Podczas kreowania postaci kieruje nas tylko do miasta w którym są najważniejsze lokacje. Ma to na celu ułatwić nowym grę.<br>
+-Naprawiono błąd z jubilerstwem. Od teraz nie nabijamy tak szybko umiejętności co sprawiało, że każdy jubiler robił mega bardzo dobre ringii i był równy innym jubilerom, ponieważ posiadał maxymalną ilość jubilerstwa po kilku dniach.<br>
+-W spisie mieszkańców pojawiło się pole pokazujące klasę.<br>
+-Naprawiono błąd zerujący złoto przy resecie konta. Teraz wyrównuje je do poziomu równego przy zakładaniu konta.<br>
+-Skasowano wymaganie dużej litery i cyfr w haśle do konta oraz wymogi wielkości liter w nicku.<br>
+-Stworzono dwa szablony strony głównej.<br>
+-Zmieniono wszystkie ilustracje ras w kreatorze.<br>
+-Po założeniu postaci jesteśmy proszeni o przeczytanie regulaminu.<br>
+-Stworzono kilka wewnętrznych szablonów wewnętrznych które możemy wybrać od razu po logowaniu lub w opcjach konta.<br>
+-Zmieniono opisy klas w kreatorze postaci.<br>

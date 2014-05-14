@@ -1,0 +1,2 @@
+Wchodzisz do lochów. Widzisz przed sobą szereg różnych skrzyżowań korytarzy. Jest ciemno i zimno. Masz tylko pochodnię. <br><br>
+<a href="bladzenie.php">Przeszukuję lochy w poszukiwaniu komnaty gdzie stworzono pana czarnych magów.</a>

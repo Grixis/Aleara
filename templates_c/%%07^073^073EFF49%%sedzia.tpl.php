@@ -1,0 +1,3 @@
+<?php /* Smarty version 2.6.16, created on 2012-12-03 22:38:55
+         compiled from sedzia.tpl */ ?>
+<?php echo '<form method=post action="sedzia.php?step=add">';  echo $this->_tpl_vars['Adda'];  echo ' <input type="text" name="aid" /> ';  echo $this->_tpl_vars['Asa'];  echo '<select name="rank"><option value="Member">';  echo $this->_tpl_vars['Rmember'];  echo '</option><option value="Prawnik">';  echo $this->_tpl_vars['Rlawyer'];  echo '</option><option value="Ławnik">';  echo $this->_tpl_vars['Rjudge'];  echo '</option></select>. <input type="submit" value="';  echo $this->_tpl_vars['Aadd'];  echo '" /></form>'; ?>

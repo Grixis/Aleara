@@ -1,0 +1,8 @@
+/* W CODZIENNIKACH */
+.wpis_rzut {
+    margin: 10px 0;
+    color: green;
+}
+#diary_form textarea {
+	width: 100%;
+}

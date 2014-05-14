@@ -1,0 +1,1 @@
+Odnalazłeś skałę życia z symbolem litery X<br><br><a href=city.php>wracam do miasta</a>

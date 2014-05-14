@@ -1,0 +1,3 @@
+<?php /* Smarty version 2.6.16, created on 2012-10-25 17:30:50
+         compiled from portals.tpl */ ?>
+<?php echo '';  if ($this->_tpl_vars['Go'] == ""):  echo '';  echo $this->_tpl_vars['Desc1'];  echo ' ';  echo $this->_tpl_vars['Planname'];  echo '';  echo $this->_tpl_vars['Desc2'];  echo ' ';  echo $this->_tpl_vars['Monstername'];  echo '';  echo $this->_tpl_vars['Desc3'];  echo '<br /><a href="portals.php?step=';  echo $this->_tpl_vars['Step'];  echo '&amp;go=fight">';  echo $this->_tpl_vars['Afight'];  echo '</a>';  endif;  echo ''; ?>

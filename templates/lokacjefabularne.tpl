@@ -1,0 +1,1 @@
+[-z dniem 27 lutego zakonczylismy współpracę z teamem fabularnym. W obecnym czasie tworzymy nowe opisy i pojawią się w ciągu tygodnia.-] 

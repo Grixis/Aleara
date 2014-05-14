@@ -1,0 +1,92 @@
+.list {
+list-style-image: none;
+list-style-type:none; 
+margin:0;
+padding:0;
+}
+
+.damage {
+	
+	margin:0; 
+	padding:10 0 10 35px; 
+	background: url(../images/list_style/damage.png) no-repeat 0% 50%;
+}
+.agility {
+	
+	margin:0; 
+	padding:10 0 10 35px; 
+	background: url(../images/list_style/agility.png) no-repeat 0% 50%;
+}
+.speed {
+	
+	margin:0; 
+	padding:10 0 10 35px; 
+	background: url(../images/list_style/speed.png) no-repeat 0% 50%;
+}
+.endurance {
+	
+	margin:0; 
+	padding:10 0 10 35px; 
+	background: url(../images/list_style/endurance.png) no-repeat 0% 50%;
+}
+.magical {
+	
+	margin:0; 
+	padding:10 0 10 35px; 
+	background: url(../images/list_style/magical.png) no-repeat 0% 50%;
+}
+.upgrade {
+	
+	margin:0; 
+	padding:10 0 10 35px; 
+	background: url(../images/list_style/upgrade.png) no-repeat 0% 50%;
+}
+.poison {
+	
+	margin:0; 
+	padding:10 0 10 35px; 
+	background: url(../images/list_style/poison.png) no-repeat 0% 50%;
+}
+.defense {
+	
+	margin:0; 
+	padding:10 0 10 35px; 
+	background: url(../images/list_style/defense.png) no-repeat 0% 50%;
+}
+.ranged {
+	
+	margin:0; 
+	padding:10 0 10 35px; 
+	background: url(../images/list_style/ranged.png) no-repeat 0% 50%;
+}
+.mana {
+	
+	margin:0; 
+	padding:10 0 10 35px; 
+	background: url(../images/list_style/mana.png) no-repeat 0% 50%;
+}
+.health {
+	
+	margin:0; 
+	padding:10 0 10 35px; 
+	background: url(../images/list_style/health.png) no-repeat 0% 50%;
+}
+.antidote {
+	
+	margin:0; 
+	padding:10 0 10 35px; 
+	background: url(../images/list_style/antidote.png) no-repeat 0% 50%;
+}
+.active
+{
+    border: 2px dashed #33CC00;
+
+}
+.hover
+{
+    border: 2px dashed #0099FF;
+
+}
+
+
+

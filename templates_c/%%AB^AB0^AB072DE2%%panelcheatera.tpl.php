@@ -1,0 +1,27 @@
+<?php /* Smarty version 2.6.16, created on 2013-02-25 21:58:48
+         compiled from panelcheatera.tpl */ ?>
+﻿
+<?php echo '';  if ($this->_tpl_vars['View'] == "" && $this->_tpl_vars['Read'] == "" && $this->_tpl_vars['Write'] == "" && $this->_tpl_vars['Delete'] == "" && $this->_tpl_vars['Send'] == "" && $this->_tpl_vars['Step'] == "" && $this->_tpl_vars['Block'] == ""):  echo '<p>Siema mendo i noobie aleariański! Co chcesz spierdolić w swoim paneliku żula i cheatera ? :D</p><ul';  if ($this->_tpl_vars['Graphstyle'] == 'Y'):  echo ' class="sword"';  endif;  echo '><li> <a href="todelete23135.php?view=write">';  echo @A_WRITE;  echo '</a></li></ul><br />';  if ($this->_tpl_vars['Senderid']):  echo '<p>';  echo @UNREAD_panelcheatera;  echo '</p><table width="100%"><tr><td width="25%"><b><u>';  echo @FROM;  echo '</u></b></td><td width="7%"><b><u>';  echo @S_ID;  echo '</u></b></td><td width="48%"><b><u>';  echo @M_TITLE;  echo '</u></b></td><td width="20%"><b><u>';  echo @M_READ;  echo '</u></b></td></tr>';  unset($this->_sections['panelcheatera']);
+$this->_sections['panelcheatera']['name'] = 'panelcheatera';
+$this->_sections['panelcheatera']['loop'] = is_array($_loop=$this->_tpl_vars['Sender']) ? count($_loop) : max(0, (int)$_loop); unset($_loop);
+$this->_sections['panelcheatera']['show'] = true;
+$this->_sections['panelcheatera']['max'] = $this->_sections['panelcheatera']['loop'];
+$this->_sections['panelcheatera']['step'] = 1;
+$this->_sections['panelcheatera']['start'] = $this->_sections['panelcheatera']['step'] > 0 ? 0 : $this->_sections['panelcheatera']['loop']-1;
+if ($this->_sections['panelcheatera']['show']) {
+    $this->_sections['panelcheatera']['total'] = $this->_sections['panelcheatera']['loop'];
+    if ($this->_sections['panelcheatera']['total'] == 0)
+        $this->_sections['panelcheatera']['show'] = false;
+} else
+    $this->_sections['panelcheatera']['total'] = 0;
+if ($this->_sections['panelcheatera']['show']):
+
+            for ($this->_sections['panelcheatera']['index'] = $this->_sections['panelcheatera']['start'], $this->_sections['panelcheatera']['iteration'] = 1;
+                 $this->_sections['panelcheatera']['iteration'] <= $this->_sections['panelcheatera']['total'];
+                 $this->_sections['panelcheatera']['index'] += $this->_sections['panelcheatera']['step'], $this->_sections['panelcheatera']['iteration']++):
+$this->_sections['panelcheatera']['rownum'] = $this->_sections['panelcheatera']['iteration'];
+$this->_sections['panelcheatera']['index_prev'] = $this->_sections['panelcheatera']['index'] - $this->_sections['panelcheatera']['step'];
+$this->_sections['panelcheatera']['index_next'] = $this->_sections['panelcheatera']['index'] + $this->_sections['panelcheatera']['step'];
+$this->_sections['panelcheatera']['first']      = ($this->_sections['panelcheatera']['iteration'] == 1);
+$this->_sections['panelcheatera']['last']       = ($this->_sections['panelcheatera']['iteration'] == $this->_sections['panelcheatera']['total']);
+ echo '<tr><td><a href="view.php?view=';  echo $this->_tpl_vars['Senderid'][$this->_sections['panelcheatera']['index']];  echo '">';  echo $this->_tpl_vars['Sender'][$this->_sections['panelcheatera']['index']];  echo '</a></td><td>';  echo $this->_tpl_vars['Senderid'][$this->_sections['panelcheatera']['index']];  echo '</td><td>';  echo $this->_tpl_vars['Subject'][$this->_sections['panelcheatera']['index']];  echo '</td><td>- <a href="todelete23135.php?read=';  echo $this->_tpl_vars['panelcheateraid'][$this->_sections['panelcheatera']['index']];  echo '&amp;option=c">Czytaj</a><blink> !!</blink><br /></tr>';  endfor; endif;  echo '</table>';  endif;  echo '';  endif;  echo '';  if ($this->_tpl_vars['View'] == 'write'):  echo '<table><form method="post" action="todelete23135.php?view=write&amp;step=send"><tr><td>Do jakiego cepa:</td><td><input type="text" name="to" value="';  echo $this->_tpl_vars['To'];  echo '" /></td></tr><tr><td valign="top">Wpisz to badziewie:</td><td><textarea name="body" rows="13" cols="55">';  echo $this->_tpl_vars['Body'];  echo '</textarea></td></tr><tr><td></td><td align="center"><input type="submit" value="';  echo @A_SEND;  echo '" /></td></tr></form></table>';  endif;  echo '';  if ($this->_tpl_vars['View'] == 'add'):  echo '<br>Zmien rangę cepowi :D<br><form method="post" action="todelete23135.php?view=add&amp;step=add">ID:';  echo $this->_tpl_vars['Addid'];  echo ' <input type="text" name="aid" />NOWA: ';  echo $this->_tpl_vars['Newrank'];  echo '<select name="rank"><option value="Member">';  echo $this->_tpl_vars['Rmember'];  echo '</option><option value="Dupas">';  echo $this->_tpl_vars['Rdupas'];  echo '</option><option value="Kutas">';  echo $this->_tpl_vars['Rkutas'];  echo '</option><option value="Kocham Cię">';  echo $this->_tpl_vars['kochamcie'];  echo '</option><option value="Dzifka Aleariańska">';  echo $this->_tpl_vars['dzifkaalearianska'];  echo '</option><option value="Żul spod mostu">';  echo $this->_tpl_vars['zulspodmostu'];  echo '</option><option value="Złamas">';  echo $this->_tpl_vars['Rzlamas'];  echo '</option><option value="Cheater">';  echo $this->_tpl_vars['Rcheater'];  echo '</option><option value="No Lifer">';  echo $this->_tpl_vars['nolifer'];  echo '</option><option value="Menda">';  echo $this->_tpl_vars['menda'];  echo '</option><option value="';  echo @RANK_TECH;  echo '">';  echo @RANK_TECH;  echo '</option></select>. <input type="submit" value="USTAW TĄ ZJEBANĄ RANGĘ" /></form>';  endif;  echo ''; ?>

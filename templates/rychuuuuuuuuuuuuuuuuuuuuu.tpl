@@ -1,0 +1,2 @@
+Dotarłeś do pomieszczenia gdzie przebywają strażnicy i uzdrowiciel. Dałeś znalezione składniki uzdrowicielowi. Stworzył on antidotum i podał strażnikom. Natychmiast zaczęło działać i strażnicy stanęli na nogi jakby nigdy nic. Idziesz z nimi i uzdrowicielem do króla aby mu wszystko opowiedzieć.
+<br><a href="http://aleara.boo.pl/forums.php?topic=816">wracam do miasta</a>

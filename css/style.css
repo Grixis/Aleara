@@ -1,0 +1,78 @@
+* {
+color: white;
+font-family: Georgia, "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+font-size: 8px;
+}
+div.menu{
+color: #FFFFFF;
+font-family: Georgia, "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+}
+nobr.menu{
+color: #FFFFFF;
+font-family: Georgia, "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+}
+b{
+color: darkorange;
+font-family: Georgia, "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+}
+u{
+color: darkorange;
+font-family: Georgia, "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+}
+td {
+border-top: solid black 0px;
+border-bottom: solid black 0px;
+border-left: solid black 0px;
+border-right: solid black 0px;
+}
+input, textarea, select {
+color: #FFFFFF;
+background: #000000;
+border: solid gray 1px;
+font-family: Georgia, "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+font-style: italic;
+}
+input:focus, textarea:focus, select:focus {
+color: #FFFFFF;
+background: #262626;
+font-style: italic;
+}
+input:hover, textarea:hover, select:hover {
+color: darkorange;
+background: #262626;
+font-style: italic;
+}
+a {
+text-decoration: none;
+text-transform: none;
+color: #FFFFFF;
+font-size: 10px;
+}
+a:hover {
+text-decoration: none;
+text-transform: none;
+color: darkorange;
+font-size: 10px;
+}
+body {
+background: #000000;
+background-image:url('..images/wrota.jpg');
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+}
+body, iframe, select, textarea {
+scrollbar-face-color: black;
+scrollbar-highlight-color: gray; 
+scrollbar-shadow-color: gray; 
+scrollbar-3dlight-color: black; 
+scrollbar-arrow-color: gray;
+scrollbar-track-color: black; 
+scrollbar-darkshadow-color: black; 
+scrollbar-base-color: black;
+}

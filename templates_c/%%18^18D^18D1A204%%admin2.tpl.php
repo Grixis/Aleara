@@ -1,0 +1,3 @@
+<?php /* Smarty version 2.6.16, created on 2012-10-10 20:50:42
+         compiled from admin2.tpl */ ?>
+<?php echo '<li><a href="addkroniki.php">Dodaj wpis właściwy do kronik.</a></li><br><br><br>';  if ($this->_tpl_vars['View'] == 'kroniki'):  echo 'Dodaj nowy wpis do newsów kronik(kilka pierwszych zdań):<br><form method="post" action="admin2.php?view=kroniki&amp;step=add">Treść:<br><textarea name="text"></textarea><br><INPUT type="submit" value="Dodaj newsa o kronice"></form>';  endif;  echo '';  echo $this->_tpl_vars['Message'];  echo '';  if ($this->_tpl_vars['View'] != ""):  echo '<br />(<a href="admin2.php">';  echo $this->_tpl_vars['Aback'];  echo '</a>)';  endif;  echo ''; ?>

@@ -1,0 +1,2 @@
+Przeszedłeś przez przejście w skale. Widzisz przed sobą zwłoki nieznanego mężczyzny. Myślisz, że to właśnie ten mężczyzna o którym był rano rozgłos. <br><br><br><br><br>
+<br><br><br><Br><br><br><br><Br><br><br><br><Br><br><br><br><Br><br><br><br><Br><br><br><br><Br><a href="przejscie3.php"><b>_</b></a>

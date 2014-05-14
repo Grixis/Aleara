@@ -1,0 +1,3 @@
+<?php /* Smarty version 2.6.16, created on 2012-10-08 14:32:15
+         compiled from niewidok.tpl */ ?>
+<?php echo '<br /><br /><fieldset><legend>Dostępne opcje:</legend><form action="?" method="POST"><input type="radio" name="item" value="dostepny" />Dostępny.<br><input type="radio" name="item" value="niewidok" />Niewidoczny.<br><input type="submit" name="submit" value="Wybierz" /></form></fieldset><br>'; ?>

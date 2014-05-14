@@ -1,0 +1,60 @@
+* {
+color: #57301a;
+font-family: Georgia, "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+}
+.td {
+border-top: solid black 0px;
+border-bottom: solid black 0px;
+border-left: solid black 0px;
+border-right: solid black 0px;
+}
+hr {
+color: #d7aa7a;
+border: 1px dashed;
+}
+input, textarea, select {
+color: #57301a;
+background: #d7ca98;
+border: solid gray 1px;
+font-family: Georgia, "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+font-style: italic;
+}
+input:focus, textarea:focus, select:focus {
+color: #57301a;
+background: #d7ca98;
+font-style: italic;
+font-family: Georgia, "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+}
+input:hover, textarea:hover, select:hover {
+color: #5f1c0c;
+background: #d6b789;
+font-style: italic;
+font-family: Georgia, "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+}
+a {
+text-decoration: none;
+text-transform: none;
+color: #bb7f2a;
+font-size: 10px;
+}
+a:hover {
+text-decoration: none;
+text-transform: none;
+color: #a8866c;
+font-size: 10px;
+}
+body {
+background: #000000;
+}
+body, iframe, select, textarea {
+scrollbar-face-color: #d7ca98;
+scrollbar-highlight-color: #57301a; 
+scrollbar-shadow-color: #57301a; 
+scrollbar-3dlight-color: #d7ca98; 
+scrollbar-arrow-color: #57301a;
+scrollbar-track-color: #d7ca98; 
+scrollbar-darkshadow-color: #d7ca98; 
+scrollbar-base-color: #d7ca98;
+}

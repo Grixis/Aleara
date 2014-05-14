@@ -1,0 +1,44 @@
+body {
+	background: 576a7a;
+	color: 576a7a;
+}
+
+* {
+	font-family: tahoma;
+	font-size: 8pt;
+}
+
+fieldset {
+	border: 1px solid;
+}
+
+input, textarea, select {
+	color: 576a7a;
+	background: black;
+	border: solid gray 1px;
+}
+
+a {
+	text-decoration: none;
+	text-transform: none;
+	color: #339999;
+}
+
+a:hover {
+	text-decoration: none;
+	text-transform: none;
+	color: red;
+}
+
+.forum {
+	color: 576a7a;
+}
+
+span.Tag {
+	color: #008080;
+	font-size: 120%;
+}
+
+#players a {
+	font-size: 90%;
+}

@@ -1,0 +1,129 @@
+.draggable
+{
+    position: absolute;
+    width: 250px;
+    height: 35px;
+    border: 1px dotted #0090DF;
+    background-color: #909090;
+    padding: 1px;
+    text-align: left;
+    cursor: move;
+}
+.active
+{
+    border: 2px dashed #33CC00;
+
+}
+.hover
+{
+    border: 2px dashed #0099FF;
+
+}
+.nondraggable
+{
+    position: absolute;
+    width: 250px;
+    height: 35px;
+    border: 1px solid #0090DF;
+    background-color: #243920;
+    padding: 1px;
+    text-align: left;
+}
+
+.dropzone
+{
+    width: 270px;
+    background-color: #FFFFFF;
+    border: 2px solid #900;
+    padding: 5px;
+    overflow: hidden;
+    color: #000;
+}
+
+.frameClass
+{
+    border: 1px dotted #999;
+}
+
+.sidearm, .bow, .armor, .shield, .helmet, .legs, .ring
+{
+    height:40px;
+    width: 80px;
+    position: absolute;
+    border: 1px solid #0090DF;
+    background-color: #042B90;
+    padding: 1px;
+    text-align: left;
+    font-size: smaller;
+    cursor: move;
+}
+
+.dropequipment
+{
+    width: 60px;
+    height: 60px;
+}
+
+#sidearm
+{
+    background: url(../../images/outposts/items/sidearm.jpg) center no-repeat;
+}
+
+#bow
+{
+    background: url(../../images/outposts/items/bow.jpg) center no-repeat;
+}
+
+#armor
+{
+    background: url(../../images/outposts/items/armor.jpg) center no-repeat;
+}
+
+#shield
+{
+    background: url(../../images/outposts/items/shield.jpg) center no-repeat;
+}
+
+#helmet
+{
+    background: url(../../images/outposts/items/helmet.jpg) center no-repeat;
+}
+
+#legs
+{
+    background: url(../../images/outposts/items/legs.jpg) center no-repeat;
+}
+#ring1
+{
+    background: url(../../images/outposts/items/ring1.jpg) center no-repeat;
+}
+
+#ring2
+{
+    background: url(../../images/outposts/items/ring2.jpg) center no-repeat;
+}
+
+.veteran
+{
+    width: 150px;
+    height: 55px;
+    border: 1px solid #0090DF;
+    background-color: #909090;
+    padding: 1px;
+    text-align: left;
+    cursor: move;
+}
+
+.vetEquipment {
+    width: 200px;
+    float: right;
+}
+
+#equipment {
+    list-style: none;
+}
+
+#equipment li {
+    display: inline;
+    margin-right: 10px;
+}

@@ -1,0 +1,1 @@
+Wybudowałeś szpital! <a href="tribes.php?view=my"> (Wróć)</a>
