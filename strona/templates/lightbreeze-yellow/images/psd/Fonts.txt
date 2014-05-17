@@ -1,7 +1,0 @@
-Fonts:
-
-URL:
-http://www.google.com/webfonts/specimen/Oswald
-
-Name:
-Oswald, Normal 400
